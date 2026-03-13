@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gracious-scone-686845.framer.app/sitemap.xml
