@@ -208,6 +208,9 @@ window.smartsupp||(function(d) {
 </script>
 <noscript>Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
 
+    <!-- Vercel Web Analytics -->
+    <script defer src="https://cdn.vercel-insights.com/v1/script.js"></script>
+
     <!-- End of headEnd -->
 </head>
 <body>
