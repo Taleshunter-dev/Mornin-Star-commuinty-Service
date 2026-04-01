@@ -209,6 +209,11 @@ window.smartsupp||(function(d) {
 <noscript>Powered by <a href="https://www.smartsupp.com" target="_blank">Smartsupp</a></noscript>
 
     <!-- End of headEnd -->
+	<!-- Vercel Speed Insights -->
+	<script>
+		window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+	</script>
+	<script defer src="/_vercel/speed-insights/script.js"></script>
 </head>
 <body>
 	<script async src="https://events.framer.com/script?v=2" data-fid="42c9d470c53cda63234fd71aab87aab48de3d0ee92880fade0f5b500d9e2123f" data-no-nt></script>
